@@ -1,3 +1,10 @@
+### Notice
+Starting October 12th, 2023 GitHub is enforcing mandatory [two-factor authentication](https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13/) on my account.  
+I'm not going to comply and move all my activity to GitLab instead.  
+Any future updates / releases will be available at: [https://gitlab.com/gitendo/lumberjack](https://gitlab.com/gitendo/lumberjack)  
+Thanks and see you there!
+___
+
 # Lumberjack
 Here's Game Boy version of Amiga / C64 mini game I did for [RetroKomp / Load Error 2017](http://www.pouet.net/party.php?which=1663&when=2017) gamedev compo.
 
